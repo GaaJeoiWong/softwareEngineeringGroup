@@ -29,8 +29,8 @@
 
 ## 👥 成员资料
 
-- 梁海瑜
-- 黄家锐  
+- [梁海瑜](https://github.com/GaaJeoiWong/softwareEngineeringGroup/blob/main/members/%E6%A2%81%E6%B5%B7%E7%91%9C%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)
+- [黄家锐](https://github.com/GaaJeoiWong/softwareEngineeringGroup/blob/main/members/%E9%BB%84%E5%AE%B6%E9%94%90%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.md)  
 
 ---
 
