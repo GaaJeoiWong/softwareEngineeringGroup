@@ -1,0 +1,2 @@
+在运行agent前请先在终端中下载：
+pip install -U google-genai
