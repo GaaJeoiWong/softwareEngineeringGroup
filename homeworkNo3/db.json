@@ -1,0 +1,32 @@
+{
+  "wishes": [],
+  "todos": [],
+  "chats": [
+    {
+      "id": "chat-msg-fresh",
+      "sender": "orion",
+      "text": "晚安。我是 Orion，守护在你身旁。很高兴能够开启我们之间全新的倾心旅程。有什么秘密指引你来到今晚的星空下？你可以向我敞开心扉说任何事情。",
+      "timestamp": "21:30"
+    }
+  ],
+  "analytics": {
+    "trend": [],
+    "daysCount": 0,
+    "daysDiffPercent": 0,
+    "totalWishes": 0,
+    "targetWishes": 50,
+    "avgEmotionScore": 0,
+    "avgEmotionLabel": "尚未记录",
+    "wordsCount": 0
+  },
+  "badges": [
+    { "id": "badge-1", "name": "初次投递", "description": "向星河投递了第一颗代表心声的星子", "unlocked": false, "iconName": "Send" },
+    { "id": "badge-2", "name": "深夜守望者", "description": "连续在深夜零点后投递心声并得到共鸣", "unlocked": false, "iconName": "Moon" },
+    { "id": "badge-3", "name": "星语采摘者", "description": "点亮并收录了超过 10 颗不同的心声流星", "unlocked": false, "iconName": "Sparkles" },
+    { "id": "badge-4", "name": "平和之心", "description": "在一周的情绪轨迹中达到和谐稳定的平静状态", "unlocked": false, "iconName": "Leaf" },
+    { "id": "badge-5", "name": "深思熟虑者", "description": "单次纸笺书写心声超过 300 字", "unlocked": false, "iconName": "PenTool" },
+    { "id": "badge-6", "name": "星河织梦人", "description": "累计点亮 50 颗心声愿望，编织起自己的星空", "unlocked": false, "iconName": "Heart" },
+    { "id": "badge-7", "name": "月下行者", "description": "在凌晨 2 点到 4 点完成一次心灵对话", "unlocked": false, "iconName": "Navigation" },
+    { "id": "badge-8", "name": "情绪旅人", "description": "完整收集并记录了 5 种不同类别的情绪星尘", "unlocked": false, "iconName": "Compass" }
+  ]
+}
