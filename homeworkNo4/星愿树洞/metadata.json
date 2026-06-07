@@ -1,0 +1,6 @@
+{
+  "name": "星愿树洞",
+  "description": "星愿树洞（Star Wish Tree Hole）是一款基于 AI 的心灵治愈与原声情绪分析平台。提供倾诉秘密、星河回信、7日情绪波动谱、成就勋章及星愿清单等功能，Orion 作为温暖的 AI 伴侣倾心倾听。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
